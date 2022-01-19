@@ -1,0 +1,12 @@
+.page{
+    display: flex;
+    flex-wrap: wrap;
+}
+.page>div{
+    border: 1px black solid;
+    width: 50vw;
+    height:50vh;
+}
+body{
+    overflow-y: hidden;
+}
